@@ -1,0 +1,1 @@
+{"version":3,"file":"prerender.js","sourceRoot":"src/","sources":["server/prerender.ts"],"names":[],"mappings":";AAAA,IAAM,SAAS,GAAG,OAAO,CAAC,WAAW,CAAC,CAAC;AACvC,IAAM,MAAM,GAAG,SAAS,CAAC;IACrB,eAAe,EAAE,IAAI;CACxB,CAAC,CAAC;AACH,MAAM,CAAC,GAAG,CAAC,SAAS,CAAC,SAAS,EAAE,CAAC,CAAC;AAClC,MAAM,CAAC,KAAK,EAAE,CAAC"}
