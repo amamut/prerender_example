@@ -12,7 +12,7 @@
         "dev": "concurrently --kill-others --prefix \"[{name}]\" --names \"TSC,SRV\" \"yarn watch\" \"yarn start\""
     },
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "nodemon": "^2.0.2",
         "prerender": "^5.6.0",
         "prerender-node": "^3.2.5",
